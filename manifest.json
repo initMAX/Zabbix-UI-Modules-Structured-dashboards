@@ -1,0 +1,20 @@
+{
+	"manifest_version": 1,
+	"id": "structured-dashboard",
+	"name": "Structured Dashboard",
+	"author": "initMAX s.r.o.",
+	"description": "Make list of dashboards structured",
+	"version": "6.2-0",
+	"namespace": "StructuredDashboard",
+	"url": "http://www.initmax.com",
+	"require": {
+		"zabbix": "^6.2"
+	},
+	"actions": {
+		"dashboard.list": {
+			"class": "CControllerStructuredDashboardList",
+			"view": "monitoring.dashboard.list",
+			"layout": "layout.htmlpage"
+		}
+	}
+}
