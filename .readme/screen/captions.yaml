@@ -1,0 +1,9 @@
+01-overview.png:
+  en: "Organize a large dashboard library into readable nested groups derived from a simple naming convention."
+  cs: "Uspořádejte rozsáhlou knihovnu dashboardů do přehledných vnořených skupin vytvořených jednoduchou jmennou konvencí."
+02-collapsed.png:
+  en: "Collapse sections you do not need and expand only the branch that contains the dashboard you are looking for."
+  cs: "Sbalte nepotřebné sekce a rozbalte pouze větev s dashboardem, který právě hledáte."
+widget.png:
+  en: "Structured dashboards replace a long flat list with a navigable hierarchy."
+  cs: "Strukturované dashboardy nahrazují dlouhý plochý seznam snadno ovladatelnou hierarchií."
