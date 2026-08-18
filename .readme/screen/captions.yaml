@@ -1,0 +1,21 @@
+01-overview.png:
+  en: "Organize a large dashboard library into readable nested groups derived from a simple naming convention."
+  cs: "Uspořádejte rozsáhlou knihovnu dashboardů do přehledných vnořených skupin vytvořených jednoduchou jmennou konvencí."
+02-collapsed.png:
+  en: "Collapse sections you do not need and expand only the branch that contains the dashboard you are looking for."
+  cs: "Sbalte nepotřebné sekce a rozbalte pouze větev s dashboardem, který právě hledáte."
+widget.png:
+  en: "Structured dashboards replace a long flat list with a navigable hierarchy."
+  cs: "Strukturované dashboardy nahrazují dlouhý plochý seznam snadno ovladatelnou hierarchií."
+03-group-selected.png:
+  en: "One tick-box per group selects every dashboard under it - handy for mass actions on a whole branch."
+  cs: "Jedno zaškrtávací pole na skupinu vybere všechny dashboardy pod ní - hodí se pro hromadné akce nad celou větví."
+04-drag-drop.png:
+  en: "Edit mode: drag a dashboard over another row and the highlighted target with the Move to hint tells you where it lands - here Storage dropped on Switches opens a new group named after it."
+  cs: "Režim úprav: přetáhněte dashboard nad jiný řádek a zvýrazněný cíl s nápovědou Přesunout do ukáže, kam dopadne - zde Storage puštěný na Switches otevře novou skupinu pojmenovanou po něm."
+05-create-group.png:
+  en: "Create group opens an empty group by path - Business / SLA nests - ready to be filled by drag & drop."
+  cs: "Vytvořit skupinu založí prázdnou skupinu podle cesty - Business / SLA se vnoří - připravenou k naplnění přetažením."
+06-edit-mode.png:
+  en: "The Edit list: drag handles on every row, a pencil on every group to rename it in place, and the View | Edit switch remembered per user."
+  cs: "Seznam v režimu úprav: úchyty pro přetažení na každém řádku, tužka u každé skupiny pro přejmenování na místě a přepínač Zobrazit | Upravit zapamatovaný pro každého uživatele."
